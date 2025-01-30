@@ -1,5 +1,17 @@
+# ignore ALL .log files
+*.log
+
+# ignore ALL .env files
+*.env
+
+# ignore ALL macOS files
+*.DS_Store
+
+# ignore ALL csv files
 *.csv
 
+# ignore ALL xlsx files
 *.xlsx
 
-*.env
+# ignore ALL pycache files
+*.pyc
